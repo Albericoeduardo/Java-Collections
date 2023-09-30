@@ -1,4 +1,4 @@
-package SomaDeNumbers;
+package List.SomaDeNumbers;
 
 import java.util.ArrayList;
 import java.util.List;
